@@ -1,0 +1,41 @@
+La permiso android.permission.READ_PHONE_STATE permite que la aplicación lea el estado del teléfono y la identidad del dispositivo. En particular, permite a la aplicación leer el número de teléfono, el IMEI y otros identificadores del dispositivo.
+
+Este permiso es utilizado por algunas aplicaciones para obtener información del dispositivo, como por ejemplo para mostrar anuncios personalizados, para registrar y autenticar usuarios, y para brindar servicios basados en la ubicación del dispositivo. Sin embargo, es importante recordar que este permiso puede ser sensible y que debe ser utilizado con precaución para proteger la privacidad del usuario.
+
+
+
+
+David Jimenez
+creame una politica extensa de privacidad de la radio jacalteca
+Política de privacidad de Radio Jacalteca
+
+La privacidad de nuestros usuarios es de gran importancia para Radio Jacalteca. Por esta razón, nos comprometemos a proteger la privacidad de toda la información personal que recopilamos de nuestros usuarios. Esta política de privacidad describe cómo recopilamos, utilizamos y compartimos la información que recopilamos de nuestros usuarios.
+
+Información que recopilamos
+Podemos recopilar la siguiente información personal de nuestros usuarios:
+Información de contacto, como nombre, dirección de correo electrónico y número de teléfono.
+Información de la cuenta, como el nombre de usuario y la contraseña.
+Información de la transacción, como los detalles de la compra y la información de la facturación.
+Además, podemos recopilar información no personal, como el tipo de dispositivo móvil que utiliza, el sistema operativo, el identificador de dispositivo único y la información de uso.
+
+Cómo utilizamos la información
+Podemos utilizar la información personal que recopilamos para los siguientes fines:
+Proporcionar nuestros servicios a los usuarios.
+Administrar las cuentas de los usuarios.
+Procesar transacciones de los usuarios.
+Mejorar nuestros servicios y productos.
+Enviar comunicaciones de marketing y promociones.
+Compartir información
+Podemos compartir información personal con terceros que nos ayuden a proporcionar nuestros servicios, como procesadores de pagos y proveedores de servicios de correo electrónico.
+Podemos compartir información no personal con terceros, como proveedores de publicidad, para fines de marketing y análisis.
+
+Seguridad de la información
+Nos tomamos en serio la seguridad de la información personal de nuestros usuarios y utilizamos medidas de seguridad razonables para protegerla. Sin embargo, no podemos garantizar la seguridad de la información transmitida a través de Internet.
+
+Cambios en esta política
+Nos reservamos el derecho de modificar esta política de privacidad en cualquier momento. Si se realizan cambios significativos en esta política, se lo notificaremos a través de nuestro sitio web o mediante otros medios.
+
+Contáctenos
+Si tiene preguntas o inquietudes sobre esta política de privacidad, contáctenos a través de nuestro sitio web.
+
+Última actualización: 21 de febrero de 2023.
